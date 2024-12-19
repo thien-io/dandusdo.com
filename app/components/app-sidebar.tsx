@@ -120,7 +120,9 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <Link
           href='/'
           className=' items-center justify-center mt-3 ml-2 text-sm font-semibold'
-        ><NameTransition /></Link>
+        >
+          <NameTransition />
+        </Link>
       </SidebarHeader>
       <SidebarContent>
         <NavPages pages={data.pages} />
@@ -129,7 +131,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <div className='ml-2 flex justify-between mb-3'>
           <ThemeSwitch />
           <p className='text-xs justify-center items-center content-center ml-2 mr-1'>
-            thien © {YEAR}
+            daniel © {YEAR}
           </p>
         </div>
       </SidebarFooter>

@@ -1,32 +1,23 @@
 export const contact = [
   {
     social: 'Email',
-    username: 'hello@thientran.io',
-    url: 'mailto:hello@thientran.io',
+    username: 'hello@dandusdo.com',
+    url: 'mailto:hello@dandusdo.com',
   },
   {
     social: 'LinkedIn',
-    username: 'thienio',
-    url: 'https://linkedin.com/in/thienio',
-  },
-  {
-    social: 'Github',
-    username: 'thien-io',
-    url: 'https://github.com/thien-io',
+    username: 'dandusdo',
+    url: 'https://linkedin.com/in/dandusdo',
   },
   {
     social: 'Discord',
-    username: 'thien.io',
-    url: 'https://discordapp.com/users/thien.io',
+    username: 'dandusdo',
+    url: 'https://discordapp.com/users/dandusdo',
   },
   {
     social: 'Instagram',
-    username: 'thien.io',
-    url: 'https://instagram.com/thien.io',
+    username: 'dandusdo',
+    url: 'https://instagram.com/dandusdo',
   },
-  {
-    social: 'Telegram',
-    username: 'thien.io',
-    url: 'https://t.me/thien.io',
-  },
+
 ];

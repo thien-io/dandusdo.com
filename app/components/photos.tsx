@@ -18,32 +18,32 @@ export default function Photos() {
           {
             src: '/photos/retro-tennis-court-1.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
           {
             src: '/photos/retro-tennis-court-2.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
           {
             src: '/photos/retro-tennis-court-3.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
           {
             src: '/photos/retro-tennis-court-4.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
           {
             src: '/photos/retro-tennis-court-5.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
           {
             src: '/photos/retro-tennis-court-6.jpg',
             alt: 'tennis',
-            href: 'https://thientran.io',
+            href: 'https://dandusdo.com',
           },
         ]}
       />

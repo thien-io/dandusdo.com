@@ -21,7 +21,7 @@ import {
 } from '@/components/ui/sidebar';
 export const metadata = {
   title: "Blog",
-  description: "Thien's ",
+  description: "daniel's ",
 };
 
 
@@ -39,7 +39,7 @@ export default function BlogPosts() {
           <Breadcrumb>
             <BreadcrumbList>
               <BreadcrumbItem className='block'>
-                <BreadcrumbLink href='/'>thien</BreadcrumbLink>
+                <BreadcrumbLink href='/'>daniel</BreadcrumbLink>
               </BreadcrumbItem>
 
               <BreadcrumbItem>
